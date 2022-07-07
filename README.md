@@ -5,5 +5,6 @@ Least Square Function \
 Lagrange Method \
 Collacation Method \
 Simple Power method \
-Newton Forward Difference Interpolation Method \
+Newton Forward Difference Interpolation Method \ 
+Spline \
  SAMPLE.m file is sample of how to use
